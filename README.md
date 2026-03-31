@@ -1,6 +1,4 @@
 # bitcoin_sentiment_analysis
-Analysis of trader performance based on market sentiment (Fear vs Greed)
-# Bitcoin Sentiment vs Trader Performance
 
 ##  Overview
 This project analyzes how **market sentiment (Fear vs Greed)** affects **trader performance** using historical trading data.
